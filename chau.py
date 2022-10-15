@@ -7,3 +7,4 @@ def despedirse():
     print("sayonara")
     print("chau chau")
     print ("hola hermano")
+    print ("que ondaaaaaa")
