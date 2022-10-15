@@ -8,3 +8,4 @@ def despedirse():
     print("chau chau")
     print ("hola hermano")
     print ("que ondaaaaaa")
+    print("buenas bb")
